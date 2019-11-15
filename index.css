@@ -1,0 +1,52 @@
+@charset "utf-8";
+#col-1-3{
+    background-color:lightgrey;
+    border-radius: 6px;
+    box-shadow: 0 5px 5px 0 rgba(233,240,243,0.5), 0 0 0 1px white;
+    color: #141c3a;
+    padding: 1.25rem;
+    text-align: center;
+    width: 100%;
+
+}
+html{
+    background-color: dodgerblue;
+    font-family: monospace;
+}
+#col-1-1{
+    background-color: lightgray;
+    border-radius: 6px;
+    box-shadow: 0px 5px 5px 0px rgba(233,240,243,0.5), 0 0 0 1px white;
+    color: #141c3a;
+    display: block;
+    padding: .5rem;
+    text-align: center;
+    
+}
+div.logo{
+    width: 100%;
+    text-align: center;
+}
+a:hover{
+    background-color: transparent;
+    border-color: dodgerblue;
+    color: dodgerblue;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h1{
+    font-family: cursive;;
+    color: dodgerblue;
+}
+#contact{
+    background-color: lightgray;
+    border-radius: 6px;
+    box-shadow: 0 5px 5px 0 rgba(233,240,243,0.5), 0 0 0 1px white;
+    color: #141c3a;
+    display: block;
+    padding: .5rem;
+    text-align: center;
+}
