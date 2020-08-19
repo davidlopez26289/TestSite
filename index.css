@@ -10,7 +10,7 @@
 
 }
 html{
-    background-color: dodgerblue;
+    background-color: rgb(80, 23, 128);
     font-family: monospace;
 }
 #col-1-1{
@@ -29,8 +29,8 @@ div.logo{
 }
 a:hover{
     background-color: transparent;
-    border-color: dodgerblue;
-    color: dodgerblue;
+    border-color: rgb(96, 201, 47);
+    color: rgb(96, 201, 47);
 
 }
 a{
@@ -39,7 +39,7 @@ a{
 }
 h1{
     font-family: cursive;;
-    color: dodgerblue;
+    color: rgb(80, 23, 128);
 }
 #contact{
     background-color: lightgray;
