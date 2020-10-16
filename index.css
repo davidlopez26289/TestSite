@@ -10,7 +10,7 @@
 
 }
 html{
-    background-color: rgb(80, 23, 128);
+    background-color: cadetblue;
     font-family: monospace;
 }
 #col-1-1{
@@ -39,7 +39,7 @@ a{
 }
 h1{
     font-family: cursive;;
-    color: rgb(80, 23, 128);
+    color: cadetblue;
 }
 #contact{
     background-color: lightgray;
@@ -49,4 +49,7 @@ h1{
     display: block;
     padding: .5rem;
     text-align: center;
+}
+nav{
+    background-color: cadetblue;
 }
